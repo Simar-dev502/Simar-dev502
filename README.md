@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Building Scalable Web Products 🚀</b><br>
-  MERN Stack Developer | BTech CSE | Aspiring SWE
+  Frontend Developer | BTech CSE | Aspiring SWE
 </p>
 
 <p align="center">
